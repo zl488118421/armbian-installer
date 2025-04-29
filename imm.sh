@@ -7,7 +7,7 @@ TAG="2025-03-12"
 FILE_NAME="immortalwrt-24.10.0-x86-64-generic-squashfs-combined-efi.img.gz"
 OUTPUT_PATH="imm/immortalwrt.img.gz"
 
-DOWNLOAD_URL="https://github.com/zl488118421/AutoBuildImmortalWrt/releases/download/Autobuild-x86-64/immortalwrt-24.10.0-x86-64-generic-squashfs-combined-efi.img.gz"
+DOWNLOAD_URL="https://github.com/zl488118421/AutoBuildImmortalWrt/releases/download/Autobuild-x86-64/immortalwrt-24.10.1-x86-64-generic-squashfs-combined-efi.img.gz"
 
 # 此处可以替换op固件下载地址,但必须是 直链才可以,网盘那种地址是不行滴。举3个例子
 # 原版OpenWrt
